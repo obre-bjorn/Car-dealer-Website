@@ -9,7 +9,7 @@ function Home() {
       title = "Mercedes G-Wagon"
       description = "Order Online for Delivery"
       backgroundImg = "g-wagon.jpg"
-      leftBtnText = "Customer Order"
+      leftBtnText = "Custom Order"
       rightBtnText = "Existing Inventory"
 
       />
@@ -17,28 +17,28 @@ function Home() {
         title = "The BMW i4 M50"
         description = "Order Online for Delivery"
         backgroundImg = "convertable.jpg"
-        leftBtnText = "Customer Order"
+        leftBtnText = "Custom Order"
         rightBtnText = "Existing Inventory"
       />
       <Section 
         title = "Subaru WRX"
         description = "Order Online for Delivery"
         backgroundImg = "wrx.jpg"
-        leftBtnText = "Customer Order"
+        leftBtnText = "Custom Order"
         rightBtnText = "Existing Inventory"
       />
       <Section 
         title = " Volkswagon Polo-GT "
         description = "Order Online for Delivery"
         backgroundImg = "vwpolo.jpg"
-        leftBtnText = "Customer Order"
+        leftBtnText = "Custom Order"
         rightBtnText = "Existing Inventory"
       />
       <Section 
         title = "Scania Trucks"
         description = "Order Online for Delivery"
         backgroundImg = "truck.jpg"
-        leftBtnText = "Customer Order"
+        leftBtnText = "Custom Order"
         rightBtnText = "Existing Inventory"
       />
       <Section 
